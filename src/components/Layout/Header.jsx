@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom';
-import Logo from '../assets/logo/argentBankLogo.png';
+import Logo from '../../assets/logo/argentBankLogo.png';
 
 export default function Header() {
     const location = useLocation();
