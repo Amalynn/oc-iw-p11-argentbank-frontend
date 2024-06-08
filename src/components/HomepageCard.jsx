@@ -16,8 +16,8 @@ export default function HomepageCard({
 }
 
 HomepageCard.propTypes = {
-    srcImage: PropTypes.string,
-    altText: PropTypes.string,
-    title: PropTypes.string,
-    description: PropTypes.string,
+    srcImage: PropTypes.string.isRequired,
+    altText: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired,
+    description: PropTypes.string.isRequired,
 };

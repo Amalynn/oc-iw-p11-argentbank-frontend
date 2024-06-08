@@ -1,10 +1,10 @@
-import Footer from './components/Layout/Footer';
-import Header from './components/Layout/Header';
+import Footer from './components/Footer';
+import Header from './components/Header';
 import HomePage from './pages/HomePage';
 import SignIn from './pages/SignIn';
 import Error404 from './pages/Error404';
 import UserAccount from './pages/UserAccount';
-import Layout from './components/Layout/Layout';
+import Layout from './components/Layout';
 import {
     BrowserRouter as Router,
     Routes,
