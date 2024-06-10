@@ -209,6 +209,12 @@ body {
     font-size: 1.2rem;
 }
 
+.error-form-sign-in {
+    font-size: 13px;
+    color: red;
+    margin-top: 3px;
+}
+
 .footer {
     display: flex;
     justify-content: center;
